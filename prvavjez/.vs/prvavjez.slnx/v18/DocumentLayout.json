@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prela\\Desktop\\STRUPOD\\prvavjez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD02624-1440-4002-B581-71BED146DC41}|prvavjez.vcxproj|C:\\Users\\prela\\Desktop\\STRUPOD\\prvavjez\\vjeee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DD02624-1440-4002-B581-71BED146DC41}|prvavjez.vcxproj|solutionrelative:vjeee.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vjeee.c",
+              "DocumentMoniker": "C:\\Users\\prela\\Desktop\\STRUPOD\\prvavjez\\vjeee.c",
+              "RelativeDocumentMoniker": "vjeee.c",
+              "ToolTip": "C:\\Users\\prela\\Desktop\\STRUPOD\\prvavjez\\vjeee.c",
+              "RelativeToolTip": "vjeee.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-12T17:22:09.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
