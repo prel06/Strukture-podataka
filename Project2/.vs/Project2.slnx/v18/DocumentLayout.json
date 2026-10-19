@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prela\\Desktop\\STRUPOD\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E975B815-A251-4146-88CE-6F6769B625F5}|Project2.vcxproj|C:\\Users\\prela\\Desktop\\STRUPOD\\Project2\\FileNamess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E975B815-A251-4146-88CE-6F6769B625F5}|Project2.vcxproj|solutionrelative:FileNamess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileNamess.c",
+              "DocumentMoniker": "C:\\Users\\prela\\Desktop\\STRUPOD\\Project2\\FileNamess.c",
+              "RelativeDocumentMoniker": "FileNamess.c",
+              "ToolTip": "C:\\Users\\prela\\Desktop\\STRUPOD\\Project2\\FileNamess.c*",
+              "RelativeToolTip": "FileNamess.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-14T16:49:14.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
