@@ -55,7 +55,7 @@ position findLastN(char* LastN, position P) {
 	return NULL;
 }
 
-// OVO JE NEDOSTAJALO: Funkcija koja traži prethodni element
+
 position findPrevious(char* LastN, position P) {
 	position prev = P;
 	position curr = P->next;
