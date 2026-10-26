@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbatri\\",
+  "WorkspaceRootPath": "C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbadva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81E6B842-0A3E-421F-B2F7-F477A0C27150}|vjezbatri.vcxproj|C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbatri\\VjezbaBrdva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{81E6B842-0A3E-421F-B2F7-F477A0C27150}|vjezbatri.vcxproj|C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbadva\\VjezbaBrdva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{81E6B842-0A3E-421F-B2F7-F477A0C27150}|vjezbatri.vcxproj|solutionrelative:VjezbaBrdva.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VjezbaBrdva.c",
-              "DocumentMoniker": "C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbatri\\VjezbaBrdva.c",
+              "DocumentMoniker": "C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbadva\\VjezbaBrdva.c",
               "RelativeDocumentMoniker": "VjezbaBrdva.c",
-              "ToolTip": "C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbatri\\VjezbaBrdva.c",
+              "ToolTip": "C:\\Users\\prela\\Desktop\\STRUPOD\\vjezbadva\\VjezbaBrdva.c",
               "RelativeToolTip": "VjezbaBrdva.c",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-10-19T17:46:00.826Z",
               "EditorCaption": ""

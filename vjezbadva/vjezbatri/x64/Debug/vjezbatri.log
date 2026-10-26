@@ -1,2 +1,3 @@
 ﻿  VjezbaBrdva.c
-  vjezbatri.vcxproj -> C:\Users\prela\Desktop\STRUPOD\vjezbatri\x64\Debug\vjezbatri.exe
+C:\Users\prela\Desktop\STRUPOD\vjezbadva\VjezbaBrdva.c(129,11): warning C4101: 'i': unreferenced local variable
+  vjezbatri.vcxproj -> C:\Users\prela\Desktop\STRUPOD\vjezbadva\x64\Debug\vjezbatri.exe
